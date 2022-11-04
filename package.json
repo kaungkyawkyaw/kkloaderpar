@@ -1,0 +1,22 @@
+{
+  "name": "loaderpkgpar",
+  "version": "1.0.0",
+  "description": "loader san kyi tr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaungkyawkyaw/kkloaderpar.git"
+  },
+  "keywords": [
+    "loaderlaypr"
+  ],
+  "author": "kaungkyaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaungkyawkyaw/kkloaderpar/issues"
+  },
+  "homepage": "https://github.com/kaungkyawkyaw/kkloaderpar#readme"
+}
